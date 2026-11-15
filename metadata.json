@@ -1,0 +1,8 @@
+{
+  "name": "TripGenie AI",
+  "description": "AI-powered personalised travel planning assistant for Indian students, young travellers, and budget-conscious groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
