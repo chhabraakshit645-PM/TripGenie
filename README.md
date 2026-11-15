@@ -1,8 +1,8 @@
 # TripGenie AI
 
-**Your Next Adventure, Planned by AI.**
+**Your Next Adventure, Planned by TripGenie.**
 
-TripGenie AI is a full-stack travel planning assistant designed specifically for Indian students, young travellers, and budget-conscious groups. It combines structured Gemini AI itinerary generation with real-time destination weather (Open-Meteo) and real geographic places (OpenStreetMap Nominatim & Overpass API) — all denominated in Indian Rupees (`₹`) and completely transparent about what is AI-estimated versus externally verified.
+TripGenie  is a full-stack travel planning assistant designed specifically for Indian students, young travellers, and budget-conscious groups. It combines structured Gemini AI itinerary generation with real-time destination weather (Open-Meteo) and real geographic places (OpenStreetMap Nominatim & Overpass API) — all denominated in Indian Rupees (`₹`) and completely transparent about what is AI-estimated versus externally verified.
 
 ---
 
